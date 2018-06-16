@@ -1,2 +1,2 @@
 # HesMineR
-![Logo](/home/rstudio/HESSMineR/Images/HesMineR.png)
+# <img src="Images/HesMineR.png" align="right" />
