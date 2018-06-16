@@ -1,2 +1,2 @@
 # HesMineR
-![Logo](http://francky.me/images/quora001.png)
+![Logo](/home/rstudio/HESSMineR/Images/HesMineR.png)
