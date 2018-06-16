@@ -43,7 +43,7 @@ GP_Practice_Data$longitude<-GP_Practice_Data$longitude2
 GP_Practice_Data$longitude2<-NULL
 
 
-#NHS Trust data:
+#NHS Trust data  :
 NHS_Trusts <- read_csv("~/HESSMineR/data/NHS_Trusts.csv")
 NHS_Trusts<-data.frame(NHS_Trusts)
 #change postcode column name so can be merged with postcode
